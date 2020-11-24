@@ -1,5 +1,4 @@
 s = input ("Write the word to check: ")
-palindromeS = ""
 def isPalindrome (s):
     isP = "Yes"
     palindromeS = s[::-1]
